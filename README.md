@@ -26,7 +26,7 @@ This is currently a lightweight tool that runs on the CLI via `typer`. Navigate 
 From there, an easy-to-use, interactive menu will pop up. If this does not work, you may first need to import this module into your Python path.
 
 ### Upcoming Releases
-Below are some features that will be added to the open-source version. Since this was originally built for Clean Your Shoes, many of these are coded and built specifically for the needs of the brand and its tech stack, and must be properly refactored and reconfigure for open-source use.
+Below are some features that will be added to the open-source version. Since this was originally built for Clean Your Shoes, many of these are coded and built specifically for the needs of the brand and its tech stack, and must be properly refactored and reconfigured for open-source use.
 - Persistence object/class to connect your DB of choice to the tool.
   - Adding numbers to the DB
   - Retrieve subscriber list
