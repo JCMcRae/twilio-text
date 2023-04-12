@@ -32,3 +32,5 @@ Below are some features that will be added to the open-source version. Since thi
   - Retrieve subscriber list
 - Send SMS to multiple numbers.
 - GUI
+
+If for any reason this project is mising any critical files, code, or settings, please be at liberty to let me know and I will fix it as soon as possible.
