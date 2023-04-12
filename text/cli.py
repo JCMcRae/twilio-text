@@ -1,6 +1,8 @@
 import os
 import sys
+
 import typer
+
 from text import __app_name__, __version__, us_text_warning, messenger
 
 

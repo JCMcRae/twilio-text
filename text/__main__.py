@@ -1,5 +1,6 @@
 import typer
-from text import cli
+
+import cli
 
 app = typer.Typer()
 
